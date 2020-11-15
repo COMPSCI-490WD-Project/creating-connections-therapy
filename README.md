@@ -13,3 +13,7 @@
 [Prototype](https://github.com/COMPSCI-490WD-Project/creating-connections-therapy/blob/master/Iteration%202/Design%20Prototype%20Creation%20Connection%20Therapy.pdf)
 
 [Reflection](https://github.com/COMPSCI-490WD-Project/creating-connections-therapy/blob/master/Iteration%202/Iteration%20Two%20Reflection%20.docx)
+
+## Iteration Three
+
+[Pre-Iteration Spreadsheet](https://docs.google.com/spreadsheets/d/1BQdNWWRfGl_9n1xgZqlwanBSI148svV9gk88pKnAk9o/edit)
