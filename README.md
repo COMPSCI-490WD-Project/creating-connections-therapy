@@ -16,4 +16,6 @@
 
 ## Iteration Three
 
-[Pre-Iteration Spreadsheet](https://docs.google.com/spreadsheets/d/1BQdNWWRfGl_9n1xgZqlwanBSI148svV9gk88pKnAk9o/edit)
+[Spreadsheet](https://github.com/COMPSCI-490WD-Project/creating-connections-therapy/blob/master/Iteration%203/Creation%20Connection%20Therapy%20Iteration%20%233%20Sheet.xlsx)
+
+[Reflection](https://github.com/COMPSCI-490WD-Project/creating-connections-therapy/blob/master/Iteration%203/Iteration%20Three%20Reflection.docx)
